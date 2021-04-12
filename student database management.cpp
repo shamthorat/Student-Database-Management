@@ -17,6 +17,8 @@ int main()
         char course[100];
         int section;
     };
+    
+    printf("Name:sham thorat Roll No: 29);
 
     struct student e;
     char xfirst_name[50], xlast_name[50];
